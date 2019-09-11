@@ -12,7 +12,7 @@ http://mathworld.wolfram.com/JuliaSet.html
 
 ## Symmerticality?
 
-From web search (I haven't read technical prove of which) a pair of G. J sets are symmetrical about the Real axis if values for p are equal and values for c are symmertrical about the real axis on the complex plane.
+From web search (I haven't read technical proof of which) a pair of G. J sets are symmetrical about the Real axis if values for p are equal and values for c are symmertrical about the real axis on the complex plane.
 
 see:
  (zh:广义Julia集关于迭代参数的对称性分析)
