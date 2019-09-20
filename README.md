@@ -17,3 +17,9 @@ From web search (I haven't read technical proof of which) a pair of G. J sets ar
 see:
  (zh:广义Julia集关于迭代参数的对称性分析)
 Qin Xuanyun, Guan Jihong Ren Bo Han Xuli Analysis for the Symmetry of General J Sets to Iterated Parameters, Journal of Computer-Aided Design & Computer Graphics July 2017 (19) p 927-930
+
+## Time consuming?
+
+Floating number computation in such large scale takes time.
+I have estimated that to run the code will take around 10^2 days on my laptop (however this cannot be true as I have to use it for other things).
+
